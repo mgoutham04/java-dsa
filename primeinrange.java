@@ -1,4 +1,3 @@
-package basicsandpatterns;
 public class primeinrange {
     public static boolean isPrime(int n){
         if(n==2){
@@ -23,3 +22,4 @@ public class primeinrange {
         primeRange(20);
     }
 }
+
