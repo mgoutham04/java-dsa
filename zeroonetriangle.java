@@ -1,4 +1,4 @@
-package basicsandpatterns;
+
 public class zeroonetriangle {
     public static void triangle(int n){
         for (int i=1;i<=n;i++){
@@ -16,3 +16,4 @@ public class zeroonetriangle {
         triangle(9);
     }
 }
+
