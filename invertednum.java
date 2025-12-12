@@ -1,4 +1,3 @@
-package basicsandpatterns;
 public class invertednum {
     public static void inverted(int n){
         for(int i=1;i<=n;i++){
@@ -17,3 +16,4 @@ public class invertednum {
         inverted(5);
     }
 }
+
