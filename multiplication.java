@@ -1,4 +1,3 @@
-package basicsandpatterns;
 public class multiplication {
     public static int product(int a,int b){
         int product=a*b;
@@ -11,3 +10,4 @@ public class multiplication {
         System.out.println(prod);
     }
 }
+
