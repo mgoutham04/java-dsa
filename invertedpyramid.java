@@ -1,4 +1,3 @@
-package basicsandpatterns;
 public class invertedpyramid {
     public static void inverted(int n){
         for(int i=1;i<=n;i++){
@@ -15,3 +14,4 @@ public class invertedpyramid {
         inverted(5);
     }
 }
+
